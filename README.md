@@ -12,7 +12,7 @@
 <img src="https://lptstr.github.io/lptstr-images/screenshots/projects/pxlcon/screenshot.png" alt="pxlcon" align="right"
 width="51%">
 
-Vareon is an tiny pixel art editor for the terminal, which you control with the keyboard instead of the mouse. It is a port of `pxltrm` to PowerShell, aiming for full cross-platform compatibility.
+Vareon is an tiny pixel art editor beta, which you control with the keyboard instead of the mouse. It is a port of `pxltrm` to PowerShell, aiming for full cross-platform compatibility.
 
 - **Lightweight** (less than 1.38 KB)
 - **RGB color support** (for true-color terminals)
