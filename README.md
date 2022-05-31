@@ -1,5 +1,5 @@
 <h3 align="center"><img src="https://lptstr.github.io/lptstr-images/proj/pxlcon/logo.png" height="150px"></h3>
-<p align="center">A [WIP] cross-platform pixel art editor for the terminal.</p>
+<p align="center">A [WIP] cross-platform pixel art editor.</p>
 
 <p align="center">
     <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/lptstr/pxlcon.svg">
